@@ -1,0 +1,24 @@
+## Ignore file 
+
+*
+
+!/**/
+!*.js
+!*.css
+!*.html
+!*.jpeg
+!*.jpg
+!*.png
+!*.JPEG
+!*.svg
+!*.ttf
+!*.otf
+!*.webp
+![Mn]akefuncs
+!*.sh
+!*.c
+!*.h
+
+
+!.gitignore
+!README.md
